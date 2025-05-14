@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/movies/static/css/main.467ffea9.css",
+    "main.js": "/movies/static/js/main.c35af75d.js",
+    "static/media/download5.jpeg": "/movies/static/media/download5.991be8fa3337ee621781.jpeg",
+    "static/media/download2.jpeg": "/movies/static/media/download2.c1b280c3e1c05964b408.jpeg",
+    "static/media/download3.jpeg": "/movies/static/media/download3.aa085ed23524e211d2db.jpeg",
+    "static/media/download4.jpeg": "/movies/static/media/download4.06513ca350fc58992801.jpeg",
+    "index.html": "/movies/index.html",
+    "main.467ffea9.css.map": "/movies/static/css/main.467ffea9.css.map",
+    "main.c35af75d.js.map": "/movies/static/js/main.c35af75d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.467ffea9.css",
+    "static/js/main.c35af75d.js"
+  ]
+}
